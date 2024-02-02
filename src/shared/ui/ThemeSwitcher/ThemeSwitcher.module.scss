@@ -1,0 +1,9 @@
+.themeSwitcher {
+  width: 30px;
+  height: 30px;
+}
+.themeSwitcherIcon {
+    path {
+      fill: var(--inverted-secondary-color); // Apply fill color to the path element
+    }
+  }
